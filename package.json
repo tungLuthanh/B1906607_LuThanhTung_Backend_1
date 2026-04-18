@@ -1,9 +1,10 @@
 {
+
   "name": "contactbook-backend",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
-  "author": "Lu Thanh Tung",
+  "author": "B1906607 Lu Thanh Tung",
   "type": "commonjs",
   "main": "server.js",
   "scripts": {
